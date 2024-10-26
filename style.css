@@ -26,3 +26,19 @@ header {
     header {
     padding-bottom: 120%;}
 }
+
+/*Блок интересного*/
+#interesting {
+    background-color: #FFFFF0;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    text-aligh: center;
+}
+
+.title {
+    width: 55%;
+}
+
+.litle-text {
+    margin-bottom: 4%;
+}
