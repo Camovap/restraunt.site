@@ -1,44 +1,9 @@
-.roboto-light {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: normal;
+#first-slide {
+  background-image: url(".jpg");
 }
 
-header {
-    padding-bottom: 40%;
-    background-color: black;
-}
-
-#header_text {
-    font-size: 50px;
-    color: white;
-    margin-top: 100px;
-    width: 100%;
-}
-
-.header_description {
-    color:white;
-    background: rgba(40,40,40 , 0.15);
-    padding: 4%;
-    margin-top:4%;
-}
-@media screen and (max-width: 576px){
-    header {
-    padding-bottom: 120%;}
-}
-
-/*Блок интересного*/
-#interesting {
-    background-color: #FFFFF0;
-    padding-top: 2%;
-    padding-bottom: 5%;
-    text-aligh: center;
-}
-
-.title {
-    width: 55%;
-}
-
-.litle-text {
-    margin-bottom: 4%;
+.slides {
+  position: absolute;
+/*  min-width: 100%;
+  min-height: 100%;*/
 }
