@@ -4,10 +4,12 @@ header {
 
 #first-slide {
   background-image: url("../cmit_site/img/cmit1.jpg");
+  height: 500px;
 }
 
 #second-slide {
   background-image: url("../cmit_site/img/cmit2.jpeg");
+  height: 500px;
 }
 
 .carousel-item {
@@ -16,6 +18,7 @@ header {
 
 .slides {
   position: absolute;
+  height: 500px;
 }
 
 .overlay {
